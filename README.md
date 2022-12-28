@@ -1,5 +1,5 @@
 # Chainsaw_man_game
-Um jogo de luta em html css e javascript do anime Chainsaw man. Nesse projeto é usada a biblioteca canvas 
+Um jogo de luta zoeiro em html css e javascript do anime Chainsaw man. Nesse projeto é usada a biblioteca canvas 
 
 
 
